@@ -75,6 +75,7 @@ All the images are taken from https://www.pexels.com and some were converted to 
 The https://favicon.io/ was used for the icon in the browser tab.
 
 This site was developped under the guidence of https://www.codeinstitute.net
+
 Many thanks to all lecturers, tutors, facilitators, mentors and the slack community.
 
 ## Languages used
