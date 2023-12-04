@@ -1,10 +1,10 @@
 # Stage School Theater
 
-https://kamenco.github.io/fute/
+Welcome! [School Stage Theater](https://kamenco.github.io/fute/)
 
 ## Introduction
 
-This is a web site that engages with teatching children and youths the art of music, dance and drama. 
+This is a web site that engages with teaching children and youths the art of music, dance and drama. 
 
 
 ## Screenshots
@@ -45,10 +45,10 @@ While working on the gallery part a bug was found, the fifth picture didn't show
 
 <img src = "assets/images/bug.jpg" alt="The signup page">
 
-There is also an unfixed bug. When checking the responsivness on different devices the casting.html page shows a bug for device galaxy fold 280px. The table juts out of the frame. I checked the table width, it is 268px but still juts out.
-For the rest devices the responsiveness is OK.
+There are no unfixed bugs.
 
 The site was checked with lighthouse with following report:
+
 Performance: 33
 
 Accessibility 94
@@ -72,9 +72,13 @@ The code for the signup.html was taken from my Love Running project. The form is
 
 The code for the responsive navigation and the responsive gallery was learned from https://www.w3schools.com As the code for the gallery was modifies substantially.
 All the images are taken from https://www.pexels.com and some were converted to .webp format using https://www.freeconvert.com 
+The https://favicon.io/ was used for the icon in the browser tab.
+
+This site was developped under the guidence of https://www.codeinstitute.net
+Many thanks to all lecturers, tutors, facilitators, mentors and the slack community.
 
 ## Languages used
 
-HTML, CSS. Hover CSS was used for the for the fields of the signup.html. The border changes to red while being hovered over. Google fonts are used "Roboto, sans-serif" throughout the project. Font awesome was used to add icons. Git Hub was used to store the projects code after being pushed from Git.
+HTML, CSS. Hover CSS was used for the for the fields of the signup.html. The border changes to red while being hovered over. Google fonts are used "Roboto, sans-serif" throughout the project. Font awesome was used to add icons. Git Hub was used to store the projects code after being pushed from Git. 
 
-Applications like Photoshop, Illustrator, Corel Draw have not been used.
+Photoshop was used for the picture on the main page, Illustrator, Corel Draw and other similar programs have not been used.
